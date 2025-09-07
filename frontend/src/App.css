@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@media (forced-colors: active) {
+  body {
+    background: black;
+    color: white;
+  }
+}
